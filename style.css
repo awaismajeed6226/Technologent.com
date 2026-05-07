@@ -1,0 +1,9 @@
+:root{--primary:#0b4ba8;--dark:#0f172a;--muted:#64748b;--light:#f8fafc}
+body{font-family:Segoe UI,sans-serif;color:var(--dark)}
+.navbar{background:#fff;box-shadow:0 8px 24px rgba(0,0,0,.08)}
+.brand-logo{height:52px;border-radius:50%}
+.hero{background:linear-gradient(135deg,#0f172a,#1e3a8a,#0ea5e9);color:#fff;padding:110px 0}
+.section{padding:72px 0}.card{border-radius:14px}
+.footer{background:#0f172a;color:#cbd5e1;padding:24px 0}
+.icon-box{background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:20px;height:100%}
+.small-muted{color:var(--muted)}
